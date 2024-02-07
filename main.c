@@ -3,6 +3,7 @@
 int main(void) {
 
   printf("Hello from C\n");
+  printf("Another message\n");
 
   return 0;
 }
